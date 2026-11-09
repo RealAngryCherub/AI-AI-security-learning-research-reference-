@@ -25,7 +25,7 @@ I view the prompt injection links and testing tools listed below as basic Qualit
 
 ### 2. Scanners & Safety Tools
 *Projects aimed at checking configuration files for safety or stopping unauthorized commands.*
-*   [NVIDIA / SkillSpector] (https://github.com/nvidia/skillspector) - A tool that scans AI setup files for unusual dependencies or instructions before execution.
+*   [NVIDIA / SkillSpector] (https://github.com/nvidia/skillspector)  - A tool that scans AI setup files for unusual dependencies or instructions before execution.
 *   [pipelab-org / pipelock](https://github.com/pipelab-org/pipelock) - A project designed to act like an external firewall to block unsafe commands from running.
 
 ---
