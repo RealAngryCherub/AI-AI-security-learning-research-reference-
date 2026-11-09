@@ -20,13 +20,13 @@ I view the prompt injection links and testing tools listed below as basic Qualit
 
 ### 1. Testing & Examples
 *Simple datasets and prompt collections used to understand how models handle boundaries.*
-*   [GitHub Topic: Prompt Injection](https://github.com) - Reviewing public examples to see how text inputs can confuse an AI.
-*   [f/prompts.chat](https://github.com) - A list of system prompts that helped me learn how basic behavior rules are written for a model.
+*   [GitHub Topic: Prompt Injection](https://github.com/topics/prompt-injection) - Reviewing public examples to see how text inputs can confuse an AI.
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - A list of system prompts that helped me learn how basic behavior rules are written for a model.
 
 ### 2. Scanners & Safety Tools
 *Projects aimed at checking configuration files for safety or stopping unauthorized commands.*
-*   [NVIDIA / SkillSpector](https://github.com) - A tool that scans AI setup files for unusual dependencies or instructions before execution.
-*   [pipelab-org / pipelock](https://github.com) - A project designed to act like an external firewall to block unsafe commands from running.
+*   [NVIDIA / SkillSpector] (https://github.com/nvidia/skillspector) - A tool that scans AI setup files for unusual dependencies or instructions before execution.
+*   [pipelab-org / pipelock](https://github.com/pipelab-org/pipelock) - A project designed to act like an external firewall to block unsafe commands from running.
 
 ---
 
